@@ -2,6 +2,8 @@
 The full solution for 2018 SANS holiday hack challenges. each challenge title should link back to full solution post, later I will add the links to the titles, 
 
 
+Table of contents: 
+
 Main Challenge 1 | Orientation Challenge
 
     Hint Challenge | The Essential Editor Skills Cranberry Pi terminal challenge
