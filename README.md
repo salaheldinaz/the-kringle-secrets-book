@@ -23,7 +23,7 @@ The complete solution for 2018 SANS holiday hack challenges.
   - Hint Challenge | The Name Game Cranberry Pi terminal challenge
   - Main Challenge | Directory Browsing
 
-##### [Challenge 3 | de Bruijn Sequences](3_de Bruijn_Sequences.pdf)
+##### [Challenge 3 | de Bruijn Sequences](3_de_Bruijn_Sequences.pdf)
 
   - Hint Challenge | Lethal ForensicELFication Cranberry Pi terminal challenge
   - Main Challenge | de Bruijn Sequences
