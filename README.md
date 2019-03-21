@@ -13,47 +13,47 @@ The complete solution for 2018 SANS holiday hack challenges.
 
 #### Table of contents: 
 
-##### [Challenge 1 | Orientation Challenge](1_Orientation%20Challenge.pdf)
+##### [Challenge 1 | Orientation Challenge](1_Orientation_Challenge.pdf)
 
   - Hint Challenge | The Essential Editor Skills Cranberry Pi terminal challenge
   - Main Challenge | Orientation Challenge
 
-##### [Challenge 2 | Directory Browsing](2_Directory%20Browsing.pdf)
+##### [Challenge 2 | Directory Browsing](2_Directory_Browsing.pdf)
 
   - Hint Challenge | The Name Game Cranberry Pi terminal challenge
   - Main Challenge | Directory Browsing
 
-##### [Challenge 3 | de Bruijn Sequences](3_de Bruijn Sequences.pdf)
+##### [Challenge 3 | de Bruijn Sequences](3_de Bruijn_Sequences.pdf)
 
   - Hint Challenge | Lethal ForensicELFication Cranberry Pi terminal challenge
   - Main Challenge | de Bruijn Sequences
 
-##### [Challenge 4 | Data Repo Analysis](4_Data Repo Analysis.pdf)
+##### [Challenge 4 | Data Repo Analysis](4_Data_Repo_Analysis.pdf)
 
   - Hint Challenge | Stall Mucking Report Cranberry Pi terminal challenge
   - Main Challenge | Data Repo Analysis
 
-##### [Challenge 5 | AD Privilege Discovery](5_AD Privilege Discovery.pdf)
+##### [Challenge 5 | AD Privilege Discovery](5_AD_Privilege_Discovery.pdf)
 
   - Hint Challenge | The CURLing Master Cranberry Pi terminal challenge
   - Main Challenge | AD Privilege Discovery
 
-##### [Challenge 6 | Badge Manipulation](6_Badge Manipulation.pdf)
+##### [Challenge 6 | Badge Manipulation](6_Badge_Manipulation.pdf)
 
   - Hint Challenge | The Yule Log Analysis Cranberry Pi terminal challenge
   - Main Challenge | Badge Manipulation
 
-##### [Challenge 7 | HR Incident Response](7_HR Incident Response.pdf)
+##### [Challenge 7 | HR Incident Response](7_HR_Incident_Response.pdf)
 
   - Hint Challenge | The Dev Ops Fail Cranberry Pi terminal challenge
   - Main Challenge | HR Incident Response
 
-##### [Challenge 8 | Network Traffic Forensics](8_Network Traffic Forensics.pdf)
+##### [Challenge 8 | Network Traffic Forensics](8_Network_Traffic_Forensics.pdf)
 
   - Hint Challenge | Python Escape from LA Cranberry Pi terminal challenge
   - Main Challenge | Network Traffic Forensics
 
-##### [Challenge 9 | Ransomware Recovery](9_Ransomware Recovery.pdf)
+##### [Challenge 9 | Ransomware Recovery](9_Ransomware_Recovery.pdf)
 
   - Hint Challenge | The Sleigh Bell Lottery Cranberry Pi terminal challenge
   - Main Challenge 9.1 | Catch the Malware
@@ -61,11 +61,11 @@ The complete solution for 2018 SANS holiday hack challenges.
   - Main Challenge 9.3 | Stop the Malware
   - Main Challenge 9.4 | Recover Alabaster’s Password
 
-##### [Challenge 10 | Who Is Behind It All ?](10_Who Is Behind It All.pdf)
+##### [Challenge 10 | Who Is Behind It All ?](10_Who_Is_Behind_It_All.pdf)
 
   - Main Challenge | Piano Door Lock
 
-##### [Extra Challenge | Google Ventilation challenge](11_Google Ventilation challenge.pdf)
+##### [Extra Challenge | Google Ventilation challenge](11_Google_Ventilation_challenge.pdf)
 
 #
 
