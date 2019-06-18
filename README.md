@@ -72,4 +72,4 @@ The complete solution for 2018 SANS holiday hack challenges.
 &copy; Salaheldin
 
 
-![](https://salaheldin.online/wp-content/uploads/2019/03/page-ft.png)
+![](https://salaheldin-online.s3.amazonaws.com/images/kringle-footer.original.png)
