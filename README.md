@@ -1,5 +1,5 @@
 # The Kringle Secrets Book
-Created by [Salaheldin](@salaheldinaz)
+Created by [Salaheldin](https://github.com/salaheldinaz)
 
 The complete solution for 2018 SANS holiday hack challenges.
 
@@ -8,7 +8,7 @@ The complete solution for 2018 SANS holiday hack challenges.
 `Kringlecon` : <https://kringlecon.com/>
 
 #
-![](https://salaheldin.online/wp-content/uploads/2019/03/cover-0.png)
+![](https://github.com/salaheldinaz/the-kringle-secrets-book/blob/master/cover-0.png)
 #
 
 #### Table of contents: 
@@ -72,4 +72,4 @@ The complete solution for 2018 SANS holiday hack challenges.
 &copy; Salaheldin
 
 
-![](https://salaheldin.online/wp-content/uploads/2019/03/page-ft.png)
+![](https://salaheldin-online.s3.amazonaws.com/images/kringle-footer.original.png)
