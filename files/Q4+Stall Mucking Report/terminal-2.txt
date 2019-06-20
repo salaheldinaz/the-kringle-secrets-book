@@ -1,0 +1,22 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.2  0.0  17952  2812 pts/0    Ss   21:07   0:00 /bin/bash /sbin/init
+root        11  0.0  0.0  45320  3136 pts/0    S    21:07   0:00 sudo -u manager /home/man
+ager/samba-wrapper.sh --verbosity=none --no-check-certificate --extraneous-command-argumen
+t --do-not-run-as-tyler --accept-sage-advice -a 42 -d~ --ignore-sw-holiday-special --suppr
+ess --suppress //localhost/report-upload/ directreindeerflatterystable -U report-upload
+root        12  0.0  0.0  45320  3104 pts/0    S    21:07   0:00 sudo -E -u manager /usr/b
+in/python /home/manager/report-check.py
+root        16  0.0  0.0  45320  3104 pts/0    S    21:07   0:00 sudo -u elf /bin/bash
+manager     17  0.0  0.0  33848  7980 pts/0    S    21:07   0:00 /usr/bin/python /home/man
+ager/report-check.py
+manager     18  0.0  0.0   9500  2576 pts/0    S    21:07   0:00 /bin/bash /home/manager/s
+amba-wrapper.sh --verbosity=none --no-check-certificate --extraneous-command-argument --do
+-not-run-as-tyler --accept-sage-advice -a 42 -d~ --ignore-sw-holiday-special --suppress --
+suppress //localhost/report-upload/ directreindeerflatterystable -U report-upload
+manager     19  0.0  0.0   4196   756 pts/0    S    21:07   0:00 sleep 60
+elf         20  0.0  0.0  18212  3316 pts/0    S    21:07   0:00 /bin/bash
+root        24  0.0  0.0 316664 15392 ?        Ss   21:07   0:00 /usr/sbin/smbd
+root        25  0.0  0.0 308372  5612 ?        S    21:07   0:00 /usr/sbin/smbd
+root        26  0.0  0.0 308364  4436 ?        S    21:07   0:00 /usr/sbin/smbd
+root        28  0.0  0.0 316664  5784 ?        S    21:07   0:00 /usr/sbin/smbd
+elf         32  0.0  0.0  36636  2760 pts/0    R+   21:08   0:00 ps -auxwww

@@ -1,0 +1,18 @@
+ cat config.js.def
+// Database URL
+module.exports = {
+    'url' : 'mongodb://username:password@127.0.0.1:27017/node-api'
+};
+
+$git log
+
+commit 68405b8a6dcaed07c20927cee1fb6d6c59b62cc3
+	Add initial server config
+	
+	
+	git diff 68405b8a6dcaed07c20927cee1fb6d6c59b62cc3
+
+	
+	-    'url' : 'mongodb://sredberry:twinkletwinkletwinkle@127.0.0.1:10073/node-api'
+	
+	twinkletwinkletwinkle

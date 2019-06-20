@@ -1,0 +1,24 @@
+elf@af327e2969fb:~$ cat more_info.txt
+MORE INFO:
+  A full capture of DNS traffic for the last 30 seconds is 
+  constantly updated to:
+  /home/elf/snort.log.pcap
+  
+  You can also test your snort rule by running:
+  snort -A fast -r ~/snort.log.pcap -l ~/snort_logs -c /etc/snort/snort.conf
+  This will create an alert file at ~/snort_logs/alert
+  
+  This sensor also hosts an nginx web server to access the last 5 minutes worth of pcaps for offline analysis.   These can be viewed by logging into:
+  http://snortsensor1.kringlecastle.com/
+  Using the credentials:
+  ----------------------
+  Username | elf
+  Password | onashelf
+  tshark and tcpdump have also been provided on this sensor.
+  
+HINT: 
+  Malware authors often user dynamic domain names and 
+  IP addresses that change frequently within minutes or even 
+  seconds to make detecting and block malware more difficult.
+  As such, its a good idea to analyze traffic to find patterns
+  and match upon these patterns instead of just IP/domains.

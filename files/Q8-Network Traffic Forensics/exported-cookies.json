@@ -1,0 +1,16 @@
+[
+  {
+    "name": "PASESSION",
+    "value": "39464433382433577315296499630612",
+    "domain": "packalyzer.kringlecastle.com",
+    "hostOnly": true,
+    "path": "/",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "no_restriction",
+    "session": true,
+    "firstPartyDomain": "",
+    "storeId": "firefox-default",
+    "origin": "https://packalyzer.kringlecastle.com"
+  }
+]

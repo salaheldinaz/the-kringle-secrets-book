@@ -1,0 +1,6 @@
+25	0.244879	10.126.0.12	48.69.31.217	DNS	100	Standard query 0xcac3 TXT 3.77616E6E61636F6F6B69652E6D696E2E707331.ushngerarb.ru
+
+
+nano /etc/snort/rules/local.rules
+
+alert udp any 53 <> any any ( msg:"Wannacookie Ransomware connection ";  content:"77616E6E61636F6F6B69652E6D696E2E707331"; priority:1;sid:9000000; )

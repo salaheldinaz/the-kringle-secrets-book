@@ -1,0 +1,11 @@
+sudo -u manager /home/manager/samba-wrapper.sh --verbosity=none --no-check-certificate --extraneous-command-argument --do-not-run-as-tyler --accept-sage-advice -a 42 -d~ --ignore-sw-holiday-special --suppress --suppress //localhost/report-upload/ directreindeerflatterystable -U report-upload
+
+/bin/bash /home/manager/samba-wrapper.sh --verbosity=none --no-check-certificate --extraneous-command-argument --do-not-run-as-tyler --accept-sage-advice -a 42 -d~ --ignore-sw-holiday-special --suppress --suppress //localhost/report-upload/ directreindeerflatterystable -U report-upload
+
+sudo -E -u manager /usr/bin/python /home/manager/report-check.py
+
+Try 'ps --help <simple|list|output|threads|misc|all>'
+
+smbclient //localhost/report-upload/ directreindeerflatterystable -U report-upload
+put report.txt
+ 
