@@ -11,6 +11,12 @@ The complete solution for 2018 SANS holiday hack challenges.
 ![](https://github.com/salaheldinaz/the-kringle-secrets-book/blob/master/cover-0.png)
 #
 
+`Web Version` : https://salaheldin.online/blog/?tag=kringlecon
+
+#
+
+`PDF Version` :
+
 #### Table of contents: 
 
 ##### [Challenge 1 | Orientation Challenge](1_Orientation_Challenge.pdf)
@@ -72,4 +78,4 @@ The complete solution for 2018 SANS holiday hack challenges.
 &copy; Salaheldin
 
 
-![](https://salaheldin-online.s3.amazonaws.com/images/kringle-footer.original.png)
+![](https://media.salaheldin.online/images/kringle-footer.original.png)
